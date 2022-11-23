@@ -1,0 +1,3 @@
+[submodule "src/WirelessSensorNetworks"]
+	path = src/WirelessSensorNetworks
+	url = git@github.com:LukasVindbjerg/WirelessSensorNetworks.git
